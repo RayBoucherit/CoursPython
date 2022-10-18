@@ -45,8 +45,8 @@ Pour **déclarer** une **variable** et lui **assigner** une valeur, la syntaxe e
 ``` 
 Le nom de la variable doit être écrit avant le symbole `=` et sa valeur après.
 
-**Exercice**: Déclarer une variable dans l'interpreteur que contient le nom de votre couleur préférée.
-Afficher ce qu'elle contient avec `print(var)` où var est le nom de la variable déclarer
+**Exercice**: Déclarer une variable dans l'interpreteur qui contient le nom de votre couleur préférée.
+Afficher ce qu'elle contient avec `print(var)` où var est le nom de la variable déclarée
 
 ### Nommer des variables
 
